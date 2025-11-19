@@ -15,7 +15,7 @@ This Python program is a countdown timer that counts down from a specified numbe
 4. Input the number of seconds for your countdown when prompted.
 
 ## Output 
-https://freeimage.host/i/KSXIwFV 
+https://iili.io/KSXIwFV.jpg
 ## Skills Demonstrated
 - Python basics: variables, loops
 - Working with the `time` module
